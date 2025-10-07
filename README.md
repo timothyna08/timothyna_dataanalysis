@@ -21,7 +21,7 @@ I'm an aspiring **Data Analyst** passionate about education, data visualization,
 ## 🧰 Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white)
+![Powerbi](https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=google-sheets&logoColor=white)
 
 ---
