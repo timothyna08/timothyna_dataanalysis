@@ -32,9 +32,15 @@ I'm an aspiring **Data Analyst** passionate about education, data visualization,
 ## Featured Projects
 | Project | Description | Link |
 |----------|--------------|------|
-| 🎓 **LAUSD Attendance Analysis** | An analysis of how LAUSD's attendance compares to other school districts in California | [View Repo](https://github.com/yourusername/school-dashboard) |
-| 🧮 **3D Printing Tracker** | Tracks filament usage and costs for classroom 3D printers. | [View Repo](https://github.com/yourusername/filament-tracker) |
-| 🧠 **Bible Study Data Explorer** | An interactive dataset of biblical keywords and relationships. | [View Repo](https://github.com/yourusername/bible-data) |
+|  **[Excel] Retail Data Analysis** | An analysis of The Four Room's Cofee company's performace for the past three years | [View Repo](https://github.com/yourusername/school-dashboard) |
+|  **3D Printing Tracker** | Tracks filament usage and costs for classroom 3D printers. | [View Repo](https://github.com/yourusername/filament-tracker) |
+|  **Bible Study Data Explorer** | An interactive dataset of biblical keywords and relationships. | [View Repo](https://github.com/yourusername/bible-data) |
+
+## In-Progress
+| Project | Description | Link |
+|----------|--------------|------|
+|  **LAUSD Attendance Analysis** | An analysis of how LAUSD's attendance compares to other school districts in California | [View Repo](https://github.com/yourusername/school-dashboard) |
+|  **API Implementation**  | A project on implementing data extraction, storage, and analysis from live Data using an API
 
 ---
 
