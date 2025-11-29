@@ -13,9 +13,8 @@ I'm an aspiring **Data Analyst** passionate about education, data visualization,
 -  Recently, I have been learning the domain of Business and Marketing to broaden my scope 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://yourusername.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:timothy.na08@gmail.com)
 
 ---
 
@@ -32,17 +31,11 @@ I'm an aspiring **Data Analyst** passionate about education, data visualization,
 ## Featured Projects
 | Project | Description | Link |
 |----------|--------------|------|
-|  **[Excel] Retail Data Analysis** | An analysis of The Four Room's Cofee company's performace for the past three years | [View Repo](https://github.com/yourusername/school-dashboard) |
-|  **3D Printing Tracker** | Tracks filament usage and costs for classroom 3D printers. | [View Repo](https://github.com/yourusername/filament-tracker) |
-|  **Bible Study Data Explorer** | An interactive dataset of biblical keywords and relationships. | [View Repo](https://github.com/yourusername/bible-data) |
+|  **[Excel] Retail Data Analysis** | An analysis of The Four Room's Cofee company's performace for the past three years | [View Repo] https://github.com/timothyna08/excel_coffee_retail/tree/main |
 
 ## In-Progress
 | Project | Description | Link |
 |----------|--------------|------|
-|  **LAUSD Attendance Analysis** | An analysis of how LAUSD's attendance compares to other school districts in California | [View Repo](https://github.com/yourusername/school-dashboard) |
-|  **API Implementation**  | A project on implementing data extraction, storage, and analysis from live Data using an API
+|  **LAUSD Attendance Analysis** | An analysis of how LAUSD's attendance compares to other school districts in California | [View Repo](https://github.com/timothyna08/End_to_end_CDE_Analysis) |
+|  **API Implementation**  | A project on implementing data extraction, storage, and analysis from live Data using an API | [View Repo](https://github.com/timothyna08/api_learning_project) |
 
----
-
-## ⚡ Fun Fact
-When I’m not coding, I’m probably designing systems in Obsidian or optimizing spreadsheets!
