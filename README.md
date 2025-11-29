@@ -31,7 +31,7 @@ I'm an aspiring **Data Analyst** passionate about education, data visualization,
 ## Featured Projects
 | Project | Description | Link |
 |----------|--------------|------|
-|  **[Excel] Retail Data Analysis** | An analysis of The Four Room's Cofee company's performace for the past three years | [View Repo] https://github.com/timothyna08/excel_coffee_retail/tree/main |
+|  **[Excel] Retail Data Analysis** | An analysis of The Four Room's Cofee company's performace for the past three years | [View Repo] (https://github.com/timothyna08/excel_coffee_retail/tree/main) |
 
 ## In-Progress
 | Project | Description | Link |
