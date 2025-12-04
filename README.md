@@ -41,4 +41,4 @@ I'm an aspiring **Data Analyst** passionate about education, data visualization,
 |----------|--------------|------|
 |  **LAUSD Attendance Analysis** | An analysis of how LAUSD's attendance compares to other school districts in California | [View Repo](https://github.com/timothyna08/End_to_end_CDE_Analysis) |
 |  **API Implementation**  | A project on implementing data extraction, storage, and analysis from live Data using an API | [View Repo](https://github.com/timothyna08/api_learning_project) |
-
+| **Python Projects** | Keep me accountable! As I work through some basic python projects to Pandas and then (one day) Machine Learning | [View Repo](https://github.com/timothyna08/python-project) |
