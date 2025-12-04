@@ -12,6 +12,9 @@ I'm an aspiring **Data Analyst** passionate about education, data visualization,
 -  Always exploring ways to make data more accessible and relevant for schools
 -  Recently, I have been learning the domain of Business and Marketing to broaden my scope 
 
+## Road Card
+[![roadmap.sh](https://roadmap.sh/card/wide/69312d9e18c4749522f99410?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
+
 ## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:timothy.na08@gmail.com)
